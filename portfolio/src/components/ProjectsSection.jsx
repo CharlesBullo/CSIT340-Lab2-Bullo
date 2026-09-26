@@ -12,16 +12,23 @@ const projects = [
   {
     year: '2026',
     title: 'WILDCATS Tray Cloud',
-    description: 'A website with online ordering and queueing system with a working database',
-    tech: 'HTML · CSS · JavaScript · MySQL',
-    link: 'https://github.com/juandelacruz/canteen-queue',
+    description: 'A website with an online ordering and queueing system with a working database.',
+    tech: 'PHP · MySQL · XAMPP',
+    link: 'https://github.com/CharlesBullo/WILDCATS-Tray-Cloud',
+  },
+  {
+    year: '2026',
+    title: 'Test Wizard',
+    description: 'A simple mobile quiz app made for specific subjects.',
+    tech: 'XML · Kotlin',
+    link: 'https://github.com/CharlesBullo/Test-Wizard',
   },
   {
     year: '2025',
     title: 'First Web Development Portfolio',
     description: "A project that teaches me the basics of web development along with minor projects.",
     tech: 'HTML · CSS · JavaScript',
-    link: 'https://github.com/juandelacruz/org-event-page',
+    link: 'https://github.com/CharlesBullo/First-Web-Development-Portfolio',
   },
 ]
 
